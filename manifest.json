@@ -1,12 +1,25 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "gameVersion": "1.21.1",
   "modLoader": {
     "type": "fabric",
     "version": "latest"
   },
   "servers": [],
-  "files": [],
-  "timestamp": "2026-04-07T14:12:58Z",
+  "files": [
+    {
+      "path": "mods/appleskin-fabric-mc1.21.11-3.0.8.jar",
+      "url": "https://raw.githubusercontent.com/zzapcho/mcserver2/main/mods/appleskin-fabric-mc1.21.11-3.0.8.jar",
+      "md5": "e725606e8b0ae1c83ade7cfd0aea9e73",
+      "size": 180107
+    },
+    {
+      "path": "mods/fabric-api-0.141.3+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/zzapcho/mcserver2/main/mods/fabric-api-0.141.3+1.21.11.jar",
+      "md5": "f7e723a1649302a0a6923022a7596f1a",
+      "size": 2412693
+    }
+  ],
+  "timestamp": "2026-04-07T14:14:43Z",
   "repository": "https://github.com/zzapcho/mcserver2"
 }
