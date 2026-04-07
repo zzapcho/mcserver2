@@ -1,7 +1,12 @@
 {
   "version": "1.0.0",
   "gameVersion": "1.21.1",
-  "modLoader": { "type": "fabric", "version": "latest" },
+  "modLoader": {
+    "type": "fabric",
+    "version": "latest"
+  },
   "servers": [],
-  "files": []
+  "files": [],
+  "timestamp": "2026-04-07T14:12:58Z",
+  "repository": "https://github.com/zzapcho/mcserver2"
 }
