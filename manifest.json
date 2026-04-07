@@ -2,6 +2,6 @@
   "version": "1.0.0",
   "gameVersion": "1.21.1",
   "modLoader": { "type": "fabric", "version": "latest" },
-  "files": [],
-  "servers": []
+  "servers": [],
+  "files": []
 }
